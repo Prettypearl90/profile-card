@@ -14,5 +14,10 @@ This is a simple and responsive profile card built using HTML and CSS.
 1. Open `profile-card.html` in your browser
 2. Customize the content and styles if needed
 
+[![Live Preview](https://img.shields.io/badge/Live-Demo-blue)](https://prettypearl90.github.io/profile-card/)
+
+
+
+
 ## Author
 Created by Rajayoga
