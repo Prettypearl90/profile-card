@@ -16,6 +16,9 @@ This is a simple and responsive profile card built using HTML and CSS.
 
 [![Live Preview](https://img.shields.io/badge/Live-Demo-blue)](https://prettypearl90.github.io/profile-card/)
 
+![My Profile Photo](images/rajayoga.jpg?raw=true)
+
+
 
 
 
